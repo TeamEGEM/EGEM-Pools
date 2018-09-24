@@ -67,7 +67,7 @@
 		"contact":""
 	},
 	{
-	  "name":"hashingpool.party",
+	  "name":"Hashingpool.party",
  		"stats":"http://egem.hashingpool.party/api/stats",
  		"blocks":"http://egem.hashingpool.party/api/blocks",
  		"payments":"http://egem.hashingpool.party/api/payments",
