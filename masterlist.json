@@ -19,8 +19,8 @@
  		"accounts":"https://pool.egem.io/api/accounts",
  		"miners":"https://pool.egem.io/api/miners",
  		"siteurl":"pool.egem.io",
- 		"notify":"",
-		"contact":""
+ 		"notify":"info@egem.io",
+		"contact":"riddlez666"
 	},
 	{
 	    "name":"PROTONMINE",
@@ -62,7 +62,7 @@
  		"payments":"http://egem.digipools.org/api/payments",
  		"accounts":"http://egem.digipools.org/api/accounts",
  		"miners":"http://egem.digipools.org/api/miners",
- 		"siteurl":"digipools.org",
+ 		"siteurl":"egem.digipools.org",
  		"notify":"",
 		"contact":""
 	},
@@ -73,7 +73,7 @@
  		"payments":"http://egem.hashingpool.party/api/payments",
  		"accounts":"http://egem.hashingpool.party/api/accounts",
  		"miners":"http://egem.hashingpool.party/api/miners",
- 		"siteurl":"hashingpool.party",
+ 		"siteurl":"egem.hashingpool.party",
  		"notify":"",
 		"contact":""
 	},
@@ -84,7 +84,7 @@
  		"payments":"https://egem.solopool.org/api/payments",
  		"accounts":"https://egem.solopool.org/api/accounts",
  		"miners":"https://egem.solopool.org/api/miners",
- 		"siteurl":"solopool.org",
+ 		"siteurl":"egem.solopool.org",
  		"notify":"",
 		"contact":""
 	}
