@@ -7,8 +7,9 @@
  		"payments":"http://egem.minerpool.net/api/payments",
  		"accounts":"http://egem.minerpool.net/api/accounts",
  		"miners":"http://egem.minerpool.net/api/miners",
- 		"url":"egem.minerpool.net",
- 		"notify":"support@minerpool.net"
+ 		"siteurl":"egem.minerpool.net",
+ 		"notify":"support@minerpool.net",
+		"contact":""
 	},
 	{
  		"name":"DEV POOL",
@@ -17,8 +18,9 @@
  		"payments":"https://pool.egem.io/api/payments",
  		"accounts":"https://pool.egem.io/api/accounts",
  		"miners":"https://pool.egem.io/api/miners",
- 		"url":"pool.egem.io",
- 		"notify":""
+ 		"siteurl":"pool.egem.io",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	    "name":"PROTONMINE",
@@ -27,8 +29,9 @@
  		"payments":"https://egem.protonmine.io/api/payments",
  		"accounts":"https://egem.protonmine.io/api/accounts",
  		"miners":"https://egem.protonmine.io/api/miners",
- 		"url":"egem.protonmine.io",
- 		"notify":""
+ 		"siteurl":"egem.protonmine.io",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	    "name":"CLONA.RU",
@@ -37,8 +40,9 @@
  		"payments":"http://clona.ru:5101/api/payments",
  		"accounts":"http://clona.ru:5101/api/accounts",
  		"miners":"http://clona.ru:5101/api/miners",
- 		"url":"clona.ru",
- 		"notify":""
+ 		"siteurl":"clona.ru",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	  "name":"CRAZYPOOL",
@@ -47,8 +51,9 @@
  		"payments":"http://egem.crazypool.org/api/payments",
  		"accounts":"http://egem.crazypool.org/api/accounts",
  		"miners":"http://egem.crazypool.org/api/miners",
- 		"url":"crazypool.org",
- 		"notify":""
+ 		"siteurl":"crazypool.org",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	  "name":"DIGIPOOLS",
@@ -57,8 +62,9 @@
  		"payments":"http://egem.digipools.org/api/payments",
  		"accounts":"http://egem.digipools.org/api/accounts",
  		"miners":"http://egem.digipools.org/api/miners",
- 		"url":"digipools.org",
- 		"notify":""
+ 		"siteurl":"digipools.org",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	  "name":"hashingpool.party",
@@ -67,8 +73,9 @@
  		"payments":"http://egem.hashingpool.party/api/payments",
  		"accounts":"http://egem.hashingpool.party/api/accounts",
  		"miners":"http://egem.hashingpool.party/api/miners",
- 		"url":"hashingpool.party",
- 		"notify":""
+ 		"siteurl":"hashingpool.party",
+ 		"notify":"",
+		"contact":""
 	},
 	{
 	  "name":"SOLO POOL",
@@ -77,7 +84,8 @@
  		"payments":"https://egem.solopool.org/api/payments",
  		"accounts":"https://egem.solopool.org/api/accounts",
  		"miners":"https://egem.solopool.org/api/miners",
- 		"url":"solopool.org",
- 		"notify":""
+ 		"siteurl":"solopool.org",
+ 		"notify":"",
+		"contact":""
 	}
 ]
