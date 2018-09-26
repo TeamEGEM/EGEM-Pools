@@ -87,5 +87,16 @@
  		"siteurl":"egem.solopool.org",
  		"notify":"",
 		"contact":""
+	},
+	{
+	  "name":"COMINING.IO",
+ 		"stats":"",
+ 		"blocks":"",
+ 		"payments":"",
+ 		"accounts":"",
+ 		"miners":"",
+ 		"siteurl":"comining.io/?ref=A6ikTK3CZf67UyzCUyh7p5d",
+ 		"notify":"",
+		"contact":""
 	}
 ]
