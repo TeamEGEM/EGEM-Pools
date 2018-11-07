@@ -98,5 +98,17 @@
  		"siteurl":"comining.io/?ref=A6ikTK3CZf67UyzCUyh7p5d",
  		"notify":"",
 		"contact":""
+	},
+	{
+	  "name":"EUROPOOL.ME",
+ 		"stats":"https://egem.europool.me/api/stats",
+ 		"blocks":"https://egem.europool.me/api/blocks",
+ 		"payments":"https://egem.europool.me/api/payments",
+ 		"accounts":"https://egem.europool.me/api/accounts",
+ 		"miners":"https://egem.europool.me/api/miners",
+ 		"siteurl":"egem.europool.me",
+ 		"notify":"",
+		"contact":"@betmania1628"
 	}
+	
 ]
